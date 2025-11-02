@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Observed Data_Refactoring23_Before", "Duplicate Observed Data_Refactoring23_Before\Duplicate Observed Data_Refactoring23_Before.csproj", "{97C87E3A-6464-45B1-93C3-7DEEB27C4079}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duplicate Observed Data_Refactoring23_After", "Duplicate Observed Data_Refactoring23_After\Duplicate Observed Data_Refactoring23_After.csproj", "{CE93B684-144A-408E-95B8-48D2F99A822A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97C87E3A-6464-45B1-93C3-7DEEB27C4079}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97C87E3A-6464-45B1-93C3-7DEEB27C4079}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97C87E3A-6464-45B1-93C3-7DEEB27C4079}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97C87E3A-6464-45B1-93C3-7DEEB27C4079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE93B684-144A-408E-95B8-48D2F99A822A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE93B684-144A-408E-95B8-48D2F99A822A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE93B684-144A-408E-95B8-48D2F99A822A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE93B684-144A-408E-95B8-48D2F99A822A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6987372-6015-4982-90A0-279A4D8B2601}
+	EndGlobalSection
+EndGlobal

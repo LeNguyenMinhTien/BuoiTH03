@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulate Field_Refactoring27_Before", "Encapsulate Field_Refactoring27_Before\Encapsulate Field_Refactoring27_Before.csproj", "{CDACF15D-2611-4E90-8476-580919FDC7C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulate Field_Refactoring27_After", "Encapsulate Field_Refactoring27_After\Encapsulate Field_Refactoring27_After.csproj", "{53A1187C-E89A-42C6-80D6-E96FF4B4BF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDACF15D-2611-4E90-8476-580919FDC7C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDACF15D-2611-4E90-8476-580919FDC7C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDACF15D-2611-4E90-8476-580919FDC7C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDACF15D-2611-4E90-8476-580919FDC7C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53A1187C-E89A-42C6-80D6-E96FF4B4BF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53A1187C-E89A-42C6-80D6-E96FF4B4BF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53A1187C-E89A-42C6-80D6-E96FF4B4BF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53A1187C-E89A-42C6-80D6-E96FF4B4BF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84088BB5-1F90-49CE-A8B2-842CF27EBAC0}
+	EndGlobalSection
+EndGlobal
