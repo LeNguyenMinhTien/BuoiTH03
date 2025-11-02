@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pull Up Method_Refactoring56_Before", "Pull Up Method_Refactoring56_Before\Pull Up Method_Refactoring56_Before.csproj", "{E7701B75-E066-4C96-A7D4-632034761DD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pull Up Method_Refactoring56_After", "Pull Up Method_Refactoring56_After\Pull Up Method_Refactoring56_After.csproj", "{EB1A4E3A-2B25-4E58-A086-19AED537573D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7701B75-E066-4C96-A7D4-632034761DD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7701B75-E066-4C96-A7D4-632034761DD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7701B75-E066-4C96-A7D4-632034761DD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7701B75-E066-4C96-A7D4-632034761DD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB1A4E3A-2B25-4E58-A086-19AED537573D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB1A4E3A-2B25-4E58-A086-19AED537573D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB1A4E3A-2B25-4E58-A086-19AED537573D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB1A4E3A-2B25-4E58-A086-19AED537573D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFDDDB45-C07B-4FC8-B6C6-7413A66D9343}
+	EndGlobalSection
+EndGlobal
