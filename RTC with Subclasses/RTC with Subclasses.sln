@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTC with Subclasses_Refactoring30_Before", "RTC with Subclasses_Refactoring30_Before\RTC with Subclasses_Refactoring30_Before.csproj", "{56EF5092-F7BF-46C1-8515-37B446B43B06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTC with Subclasses_Refactoring30_After", "RTC with Subclasses_Refactoring30_After\RTC with Subclasses_Refactoring30_After.csproj", "{310DB6E6-32AD-40F8-B45C-D5C322DA73DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56EF5092-F7BF-46C1-8515-37B446B43B06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56EF5092-F7BF-46C1-8515-37B446B43B06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56EF5092-F7BF-46C1-8515-37B446B43B06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56EF5092-F7BF-46C1-8515-37B446B43B06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{310DB6E6-32AD-40F8-B45C-D5C322DA73DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310DB6E6-32AD-40F8-B45C-D5C322DA73DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310DB6E6-32AD-40F8-B45C-D5C322DA73DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310DB6E6-32AD-40F8-B45C-D5C322DA73DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD4835FF-2A12-425A-9450-B43AFAC7B9ED}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS with Fields_Refactoring32_Before", "RS with Fields_Refactoring32_Before\RS with Fields_Refactoring32_Before.csproj", "{099BA444-1025-4D7D-8CD7-D0BF8F520D7F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RS with Fields_Refactoring32_After", "RS with Fields_Refactoring32_After\RS with Fields_Refactoring32_After.csproj", "{20ECE2D1-CFE1-4E56-A251-C08562288CDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{099BA444-1025-4D7D-8CD7-D0BF8F520D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099BA444-1025-4D7D-8CD7-D0BF8F520D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099BA444-1025-4D7D-8CD7-D0BF8F520D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099BA444-1025-4D7D-8CD7-D0BF8F520D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20ECE2D1-CFE1-4E56-A251-C08562288CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20ECE2D1-CFE1-4E56-A251-C08562288CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20ECE2D1-CFE1-4E56-A251-C08562288CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20ECE2D1-CFE1-4E56-A251-C08562288CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79B704D4-17D3-4320-8890-451DF1930AC3}
+	EndGlobalSection
+EndGlobal
