@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace_Temp_with_Query_Refactoring05_Before", "Replace_Temp_with_Query_Refactoring05_Before\Replace_Temp_with_Query_Refactoring05_Before.csproj", "{31EEA209-28E1-4F87-B7BE-471373E1DF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Replace_Temp_with_Query_Refactoring05_After", "Replace_Temp_with_Query_Refactoring05_After\Replace_Temp_with_Query_Refactoring05_After.csproj", "{47ACB3D0-FCBA-41B7-80D2-83ADAD33640F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31EEA209-28E1-4F87-B7BE-471373E1DF1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EEA209-28E1-4F87-B7BE-471373E1DF1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EEA209-28E1-4F87-B7BE-471373E1DF1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EEA209-28E1-4F87-B7BE-471373E1DF1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47ACB3D0-FCBA-41B7-80D2-83ADAD33640F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47ACB3D0-FCBA-41B7-80D2-83ADAD33640F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47ACB3D0-FCBA-41B7-80D2-83ADAD33640F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47ACB3D0-FCBA-41B7-80D2-83ADAD33640F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B440225-A899-4FF7-AC98-FD428177EABB}
+	EndGlobalSection
+EndGlobal

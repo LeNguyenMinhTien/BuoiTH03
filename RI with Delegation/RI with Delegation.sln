@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RI with Delegation_Refactoring65_Before", "RI with Delegation_Refactoring65_Before\RI with Delegation_Refactoring65_Before.csproj", "{26E0B70D-854C-4677-B960-B2031CF935F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RI with Delegation_Refactoring65_After", "RI with Delegation_Refactoring65_After\RI with Delegation_Refactoring65_After.csproj", "{5A624574-6A4C-4D82-9458-436C891A7F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26E0B70D-854C-4677-B960-B2031CF935F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26E0B70D-854C-4677-B960-B2031CF935F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26E0B70D-854C-4677-B960-B2031CF935F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26E0B70D-854C-4677-B960-B2031CF935F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A624574-6A4C-4D82-9458-436C891A7F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A624574-6A4C-4D82-9458-436C891A7F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A624574-6A4C-4D82-9458-436C891A7F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A624574-6A4C-4D82-9458-436C891A7F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB2E18E4-BD72-4702-88D5-2A534A7399E1}
+	EndGlobalSection
+EndGlobal
