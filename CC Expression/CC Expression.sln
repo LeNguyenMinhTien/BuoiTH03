@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC Expression_Refactoring34_Before", "CC Expression_Refactoring34_Before\CC Expression_Refactoring34_Before.csproj", "{09D9945E-9037-4C05-B50B-7EA75A36E640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CC Expression_Refactoring34_After", "CC Expression_Refactoring34_After\CC Expression_Refactoring34_After.csproj", "{485BD4FD-A5E7-4B45-A614-ED5713BBD7D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D9945E-9037-4C05-B50B-7EA75A36E640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D9945E-9037-4C05-B50B-7EA75A36E640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D9945E-9037-4C05-B50B-7EA75A36E640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D9945E-9037-4C05-B50B-7EA75A36E640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{485BD4FD-A5E7-4B45-A614-ED5713BBD7D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{485BD4FD-A5E7-4B45-A614-ED5713BBD7D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{485BD4FD-A5E7-4B45-A614-ED5713BBD7D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{485BD4FD-A5E7-4B45-A614-ED5713BBD7D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38386F7C-2882-4AC1-99FB-B5E282B73681}
+	EndGlobalSection
+EndGlobal

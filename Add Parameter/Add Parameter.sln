@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Parameter_Refactoring42_Before", "Add Parameter_Refactoring42_Before\Add Parameter_Refactoring42_Before.csproj", "{8FDF8FB8-9CF4-4D99-B94F-531A36E4E6BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Add Parameter_Refactoring42_After", "Add Parameter_Refactoring42_After\Add Parameter_Refactoring42_After.csproj", "{EFFC496F-AFD5-47CD-8AC1-FB915496DDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FDF8FB8-9CF4-4D99-B94F-531A36E4E6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDF8FB8-9CF4-4D99-B94F-531A36E4E6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDF8FB8-9CF4-4D99-B94F-531A36E4E6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDF8FB8-9CF4-4D99-B94F-531A36E4E6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFFC496F-AFD5-47CD-8AC1-FB915496DDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFFC496F-AFD5-47CD-8AC1-FB915496DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFFC496F-AFD5-47CD-8AC1-FB915496DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFFC496F-AFD5-47CD-8AC1-FB915496DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F61999E5-11A4-4BAC-B115-60862E35AAD0}
+	EndGlobalSection
+EndGlobal
