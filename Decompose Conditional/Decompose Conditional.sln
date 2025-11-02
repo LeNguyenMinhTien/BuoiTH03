@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decompose Conditional_Refactoring33_Before", "Decompose Conditional_Refactoring33_Before\Decompose Conditional_Refactoring33_Before.csproj", "{043593F4-C71C-4907-B768-528D28D2F5CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decompose Conditional_Refactoring33_After", "Decompose Conditional_Refactoring33_After\Decompose Conditional_Refactoring33_After.csproj", "{936186C0-136F-4004-A7D3-6515C2B5715D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{043593F4-C71C-4907-B768-528D28D2F5CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043593F4-C71C-4907-B768-528D28D2F5CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043593F4-C71C-4907-B768-528D28D2F5CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043593F4-C71C-4907-B768-528D28D2F5CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{936186C0-136F-4004-A7D3-6515C2B5715D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{936186C0-136F-4004-A7D3-6515C2B5715D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{936186C0-136F-4004-A7D3-6515C2B5715D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{936186C0-136F-4004-A7D3-6515C2B5715D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83F03C2C-0696-467F-BFBE-D925772A70E8}
+	EndGlobalSection
+EndGlobal
