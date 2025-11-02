@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE with Test_Refactoring54_Before", "RE with Test_Refactoring54_Before\RE with Test_Refactoring54_Before.csproj", "{66AC83AE-33CE-4B6B-AA16-6236C7631C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RE with Test_Refactoring54_After", "RE with Test_Refactoring54_After\RE with Test_Refactoring54_After.csproj", "{9B94DF6E-F673-42EB-B0CC-56C4DB262F0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66AC83AE-33CE-4B6B-AA16-6236C7631C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66AC83AE-33CE-4B6B-AA16-6236C7631C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66AC83AE-33CE-4B6B-AA16-6236C7631C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66AC83AE-33CE-4B6B-AA16-6236C7631C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B94DF6E-F673-42EB-B0CC-56C4DB262F0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B94DF6E-F673-42EB-B0CC-56C4DB262F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B94DF6E-F673-42EB-B0CC-56C4DB262F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B94DF6E-F673-42EB-B0CC-56C4DB262F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE008F6-5961-4FBE-B694-77D16F06E783}
+	EndGlobalSection
+EndGlobal
