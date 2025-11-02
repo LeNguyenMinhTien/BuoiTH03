@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\bin\Debug\Extract_Method_Refactoring01_After.exe.config
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\bin\Debug\Extract_Method_Refactoring01_After.exe
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\bin\Debug\Extract_Method_Refactoring01_After.pdb
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\obj\Debug\Extract_Method_Refactoring01_After.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\obj\Debug\Extract_Method_Refactoring01_After.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\obj\Debug\Extract_Method_Refactoring01_After.exe
+C:\Users\Admin\Desktop\New folder (2)\64 mẫu refactoring\New folder (2)\Extract_Method\Extract_Method_Refactoring01_After\obj\Debug\Extract_Method_Refactoring01_After.pdb
