@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove ControlFlag_Refactoring36_Before", "Remove ControlFlag_Refactoring36_Before\Remove ControlFlag_Refactoring36_Before.csproj", "{F5F7BEE7-E772-4BAF-96F2-2EED705A18D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remove ControlFlag_Refactoring36_After", "Remove ControlFlag_Refactoring36_After\Remove ControlFlag_Refactoring36_After.csproj", "{27660C69-DC71-4BBC-A693-5EFDB884FB60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F7BEE7-E772-4BAF-96F2-2EED705A18D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F7BEE7-E772-4BAF-96F2-2EED705A18D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5F7BEE7-E772-4BAF-96F2-2EED705A18D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5F7BEE7-E772-4BAF-96F2-2EED705A18D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27660C69-DC71-4BBC-A693-5EFDB884FB60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27660C69-DC71-4BBC-A693-5EFDB884FB60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27660C69-DC71-4BBC-A693-5EFDB884FB60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27660C69-DC71-4BBC-A693-5EFDB884FB60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67D1CCFE-3616-4088-AE07-D84164EC69F0}
+	EndGlobalSection
+EndGlobal
